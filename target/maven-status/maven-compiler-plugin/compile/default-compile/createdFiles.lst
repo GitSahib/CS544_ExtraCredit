@@ -1,0 +1,12 @@
+projects\mum\edu\ea\app\ExtraCreditEaApplication.class
+projects\mum\edu\ea\domain\Administrator.class
+projects\mum\edu\ea\domain\User.class
+projects\mum\edu\ea\domain\Image.class
+projects\mum\edu\ea\domain\Offer.class
+projects\mum\edu\ea\domain\ResourceType.class
+projects\mum\edu\ea\domain\Resource.class
+projects\mum\edu\ea\domain\Volunteer.class
+projects\mum\edu\ea\domain\Beneficiary.class
+projects\mum\edu\ea\domain\ProjectStatus.class
+projects\mum\edu\ea\domain\Project.class
+projects\mum\edu\ea\domain\Task.class
