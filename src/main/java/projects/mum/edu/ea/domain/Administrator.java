@@ -11,5 +11,5 @@ import javax.persistence.OneToMany;
 @DiscriminatorValue("Administrator")
 public class Administrator extends User {
 	@OneToMany(mappedBy="user")
-	private List<Offer> offers = new ArrayList<Offer>();;
+	private List<Project> projects = new ArrayList<Project>();;
 }
